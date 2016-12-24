@@ -1,5 +1,4 @@
 # Responsive-Slides-for-Osclass
-=================
 Responsive Slides is a tiny jQuery plugin for [Osclass](http://osclass.org) that creates a responsive slider and works with wide range of browsers. This plugin based on OSC slider plugin which re-coded to meet osclass market quality check, added description field and improved css.
 
 ## Features
