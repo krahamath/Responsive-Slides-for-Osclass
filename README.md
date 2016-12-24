@@ -4,7 +4,7 @@ Responsive Slides is a tiny jQuery plugin for [Osclass](http://osclass.org) that
 
 ## Features
 * Fully responsive
-* * Admin settings
+* Admin settings
 * CSS3 transitions with JavaScript fallback
 * Simple markup using unordered list
 * Settings for transition and timeout durations
